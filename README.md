@@ -1,19 +1,98 @@
+## Hi, I’m Vatsalya 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vatbhadaurya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vatsalya-bhadaurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodeSalya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatbhadaurya@gmail.com) 
+I work on real world AI systems for robotics, with a primary focus on humanoid perception, behavior intelligence, and embodied AI. My work sits at the intersection of applied machine learning, robotics systems engineering, and on device deployment, where models must function reliably under real world constraints rather than controlled simulations.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VatsalyaBhadaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VatsalyaBhadaurya&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalyaBhadaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am currently an AI Intern in the R and D team at a humanoid robotics company, working on perception pipelines, speech to intent to action systems, behavior logic, ROS2 based architectures, and edge deployment on Jetson platforms. I have also worked on industrial grade vision systems deployed in automotive manufacturing environments and authored an IEEE research paper on multimodal sensing systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VatsalyaBhadaurya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+My long term interest lies in building intelligent robotic systems that perceive, reason, and act robustly in real environments such as factories, hospitals, and public spaces.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VatsalyaBhadaurya&icon=3&color=3)](https://visitcount.itsvg.in)
 
+## Current Focus
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyabhadaurya&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyabhadaurya" /> </p>
+Humanoid robotics perception and behavior systems  
+Embodied AI and decision making  
+Vision Language Action and multimodal models  
+On device machine learning optimization on Jetson platforms  
+Robotics and AI system design with real world deployment  
+
+---
+
+## Experience Highlights
+
+AI Intern in humanoid robotics R and D, working on real robots and deployed systems  
+Industrial humanoid vision system for alloy defect and paint anomaly detection for TVS Automobiles  
+IEEE published research on real time multimodal microplastic detection systems  
+Founder of MaaKosh, a maternal and neonatal health initiative focused on medical devices  
+Arduino Community Speaker with international representation  
+Multiple national level hackathon wins across AI, IoT, and robotics  
+
+---
+
+## Tech Stack
+
+### Embodied AI and Machine Learning
+Vision Language Action models, Vision Language Models, large multimodal models  
+YOLOv8, DINOv3, SAM 2.1, Depth Anything, DUSt3R  
+Convolutional neural networks, transformers  
+Whisper, voice activity detection, speech to intent grounding  
+TensorFlow, OpenCV, GPT OSS, LLaVA style architectures  
+
+### Robotics Systems and Perception
+ROS2, rclcpp exposure  
+Multimodal sensor fusion  
+Speech to intent to action pipelines  
+Behavior logic systems and behavior trees exposure  
+Navigation fundamentals and SLAM fundamentals  
+
+### Edge AI and Systems Engineering
+Jetson Orin Nano, Jetson Nano  
+On device inference optimization with latency and memory constraints  
+Dockerized deployment pipelines  
+Linux based robotics systems  
+
+### Robotics Hardware and Embedded
+STM32, Arduino, Raspberry Pi  
+IMU, RGB and depth cameras, environmental sensors  
+Low level sensor integration and hardware software interfacing  
+
+### Cloud and Product Systems
+Firebase, MySQL  
+Flask based APIs  
+Cloud assisted telemetry and inference workflows  
+
+---
+
+## Research
+
+Development of a Real Time Multi Modal Sensor for Field Based Microplastic Detection  
+IEEE Conference IC3ECSBHI  
+
+This work focuses on multimodal sensor fusion combining optical sensing, impedance analysis, and machine learning for real time, field deployable environmental monitoring.
+
+---
+
+## Connect With Me
+
+Portfolio  
+https://vatsalyaaa.me  
+
+LinkedIn  
+https://www.linkedin.com/in/vatsalya-bhadaurya  
+
+Email  
+vatbhadaurya@gmail.com  
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=VatsalyaBhadaurya&theme=radical&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VatsalyaBhadaurya&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalyaBhadaurya&layout=compact&theme=radical)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=VatsalyaBhadaurya&icon=3&color=3)
