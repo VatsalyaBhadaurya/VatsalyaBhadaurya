@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Vatsalya 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
@@ -18,48 +18,52 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="260"/>
+</p>
 
-I build **real-world AI systems for robotics**, focusing on **humanoid perception, behavior intelligence, and embodied decision-making**.
+I build **real-world AI systems for robotics**, with a focus on **humanoid perception, behavior intelligence, and embodied decision-making**.
 
-I care less about benchmarks and more about whether a system:
-- survives noisy sensors  
-- runs on limited compute  
-- behaves reliably outside the lab  
+My work prioritizes systems that:
+- operate under sensor noise  
+- respect compute and latency limits  
+- behave robustly outside controlled environments  
 
-Currently, I’m an **AI Intern in the R&D team at a humanoid robotics startup**, working on:
+I am currently an **AI Intern in the R&D team at a humanoid robotics startup**, working on:
 - perception pipelines  
 - speech → intent → action systems  
 - behavior logic & state machines  
-- ROS2 architectures  
+- ROS2-based architectures  
 - edge deployment on **NVIDIA Jetson**
 
-I’ve also worked on **industrial vision systems in automotive manufacturing** and co-authored an **IEEE research paper** on multimodal sensing.
+I have also worked on **industrial-grade vision systems in automotive manufacturing** and co-authored an **IEEE research paper** on multimodal sensing.
 
 ---
 
 ## 🔬 Current Focus
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="520"/>
 </p>
 
 - Humanoid perception & behavior systems  
 - Embodied AI under uncertainty  
-- Vision-Language-Action models  
+- Vision–Language–Action models  
 - Edge ML optimization on Jetson  
-- Robotics AI built for real-world deployment  
+- Robotics AI designed for real-world deployment  
 
 ---
 
 ## 🏗️ Experience Highlights
 
-<img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="240"/>
+</p>
 
 - AI Intern — Humanoid Robotics R&D (real robots, deployed systems)  
 - Industrial humanoid vision system for alloy & paint defect detection (TVS Automobiles)  
 - IEEE research on real-time multimodal microplastic detection  
-- Founder — **MaaKosh** (maternal & neonatal health devices)  
+- Founder — **MaaKosh**, maternal & neonatal health initiative  
 - Arduino Community Speaker (international representation)  
 - Multiple national-level hackathon wins (AI · IoT · Robotics)  
 
@@ -67,40 +71,47 @@ I’ve also worked on **industrial vision systems in automotive manufacturing** 
 
 ## ⚙️ Tech Stack
 
-### 🤖 Embodied AI & ML
-<img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220"/>
+### 🤖 Embodied AI & Machine Learning
 
-- Vision-Language-Action models  
+<p align="right">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+</p>
+
+- Vision–Language–Action models  
 - YOLOv8, DINOv3, SAM 2.1, Depth Anything, DUSt3R  
-- Whisper, VAD, speech-to-intent grounding  
+- Whisper, voice activity detection, speech-to-intent grounding  
 - TensorFlow, OpenCV, GPT-OSS, LLaVA-style architectures  
 
-### 🚀 Edge & Systems
-- Jetson Orin Nano, Jetson Nano  
-- On-device inference optimization  
+### 🚀 Edge AI & Systems Engineering
+
+- NVIDIA Jetson Orin Nano, Jetson Nano  
+- On-device inference optimization (latency & memory constrained)  
 - Dockerized deployment pipelines  
 - Linux-based robotics systems  
 
-### 🔧 Hardware
+### 🔧 Robotics Hardware & Embedded
+
 - STM32, Arduino, Raspberry Pi  
-- IMU, RGB & depth cameras  
-- Sensor fusion & low-level interfacing  
+- IMU, RGB & depth cameras, environmental sensors  
+- Low-level sensor integration & hardware–software interfacing  
 
 ---
 
 ## 📄 Research
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="240"/>
+</p>
 
 **Development of a Real-Time Multimodal Sensor for Field-Based Microplastic Detection**  
 *IEEE Conference — IC3ECSBHI*
 
-Multimodal fusion of **optical sensing**, **impedance analysis**, and **machine learning** for field-deployable environmental monitoring.
+This work focuses on multimodal sensor fusion combining **optical sensing**, **impedance analysis**, and **machine learning** to enable real-time, field-deployable environmental monitoring systems.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="320"/>
 </p>
 
 <p align="center">
