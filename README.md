@@ -78,30 +78,30 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 <h3 align="center">🤖 Embodied AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vision--Language--Action-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multimodal%20Models-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Embodied%20AI-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vision--Language--Action-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multimodal%20Models-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embodied%20AI-222222?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=opencv"/>
-  <img src="https://img.shields.io/badge/DINOv3-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SAM%202.1-222222?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Depth%20Anything-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DUSt3R-444444?style=flat-square"/>
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/DINOv3-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAM%202.1-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Depth%20Anything-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DUSt3R-444444?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai"/>
-  <img src="https://img.shields.io/badge/VAD-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Speech--to--Intent-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/VAD-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Speech--to--Intent-222222?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT--OSS-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLaVA--style%20Architectures-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT--OSS-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLaVA--style%20Architectures-111111?style=for-the-badge"/>
 </p>
 
 ---
@@ -109,19 +109,19 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 <h3 align="center">🚀 Edge AI & Systems Engineering</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/On--device%20Inference-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Latency%20%26%20Memory%20Optimization-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/On--device%20Inference-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Latency%20%26%20Memory%20Optimization-111111?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge"/>
 </p>
 
 ---
@@ -129,20 +129,20 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 <h3 align="center">🔧 Robotics Hardware & Embedded</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IMU-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RGB%20%26%20Depth%20Cameras-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sensor%20Fusion-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IMU-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RGB%20%26%20Depth%20Cameras-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sensor%20Fusion-222222?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Low--level%20Interfacing-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hardware--Software%20Co--design-444444?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Low--level%20Interfacing-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hardware--Software%20Co--design-444444?style=for-the-badge"/>
 </p>
 
 ---
