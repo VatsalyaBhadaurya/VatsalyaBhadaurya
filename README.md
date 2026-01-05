@@ -16,9 +16,7 @@ Applied Robotics • Embodied AI • Humanoid Perception • Edge ML
 
 I work on real world AI systems for robotics, with a primary focus on **humanoid perception, behavior intelligence, and embodied AI**. My work lies at the intersection of applied machine learning, robotics systems engineering, and on device deployment, where models must operate reliably under real world constraints rather than controlled simulations.
 
-I am currently an **AI Intern in the R and D team at a humanoid robotics company**, working on perception pipelines, speech to intent to action systems, behavior logic, ROS2 based architectures, and edge deployment on Jetson platforms. I have also worked on **industrial grade vision systems deployed in automotive manufacturing environments** and authored an **IEEE research paper** on multimodal sensing systems.
-
-My long term interest is in building intelligent robotic systems that **perceive, reason, and act robustly** in factories, hospitals, and public spaces.
+I am currently an **AI Intern in the R&D team at a humanoid robotics startup**, working on perception pipelines, speech to intent to action systems, behavior logic, ROS2 based architectures, and edge deployment on Jetson platforms. I have also worked on **industrial grade vision systems deployed in automotive manufacturing environments** and authored an **IEEE research paper** on multimodal sensing systems.
 
 ---
 
@@ -34,7 +32,7 @@ My long term interest is in building intelligent robotic systems that **perceive
 
 ### Experience Highlights
 
-- AI Intern in humanoid robotics R and D, working on real robots and deployed systems  
+- AI Intern in humanoid robotics R&D, working on real robots and deployed systems  
 - Industrial humanoid vision system for alloy defect and paint anomaly detection for TVS Automobiles  
 - IEEE published research on real time multimodal microplastic detection systems  
 - Founder of MaaKosh, a maternal and neonatal health initiative focused on medical devices  
@@ -47,8 +45,7 @@ My long term interest is in building intelligent robotic systems that **perceive
 
 #### Embodied AI and Machine Learning
 Vision Language Action models, Vision Language Models, large multimodal models  
-YOLOv8, DINOv3, SAM 2.1, Depth Anything, DUSt3R  
-Convolutional neural networks, transformers  
+YOLOv8, DINOv3, SAM 2.1, Depth Anything, DUSt3R   
 Whisper, voice activity detection, speech to intent grounding  
 TensorFlow, OpenCV, GPT OSS, LLaVA style architectures  
 
@@ -73,17 +70,6 @@ IEEE Conference IC3ECSBHI
 This work focuses on multimodal sensor fusion combining optical sensing, impedance analysis, and machine learning for real time, field deployable environmental monitoring.
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VatsalyaBhadaurya&theme=radical&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalyaBhadaurya&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalyaBhadaurya&layout=compact&theme=radical" height="140"/>
-</p>
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=VatsalyaBhadaurya&icon=3&color=3"/>
