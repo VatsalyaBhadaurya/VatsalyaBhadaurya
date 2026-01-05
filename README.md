@@ -127,5 +127,5 @@ real-time, field-deployable environmental monitoring.
 </p>
 
 <p align="center">
-  <i>Building robots that perceive, reason, and act — outside the lab.</i>
+  <i>Building to perceive, reason, and act outside the lab.</i>
 </p>
