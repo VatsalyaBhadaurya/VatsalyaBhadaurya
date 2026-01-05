@@ -92,7 +92,7 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 <h3 align="center">🤖 Embodied AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Sense_Plan_Act_structure.svg" width="360"/>
+  <img src="https://auto-rt.github.io/static/images/AutoRT_viz.gif" width="360"/>
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ TensorFlow · OpenCV · LLaVA-style architectures
 <h3 align="center">🚀 Edge AI & Systems Engineering</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cloud_computing_and_edge_computing_diagram.svg" width="360"/>
+  <img src="https://www.automation.com/documents/d/acom/hailo-s-structure-defined-data-flow-architecture-concept_1.gif" width="360"/>
 </p>
 
 <p align="center">
@@ -136,7 +136,7 @@ Real-time inference under memory & latency constraints
 <h3 align="center">🔧 Robotics & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Control_loop_diagram.svg" width="360"/>
+  <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/ros-dp-nitros.gif" width="360"/>
 </p>
 
 <p align="center">
