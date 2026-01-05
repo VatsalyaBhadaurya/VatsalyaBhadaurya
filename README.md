@@ -26,18 +26,18 @@ Applied Robotics · Embodied AI · Humanoid Perception · Edge ML
 
 <h2 align="center">▸ About Me ◂</h2>
 
-<p align="center" style="font-size:17px;">
+<p align="center" style="font-size:19.5px;">
 I build <b>real-world AI systems for robotics</b>, focused on  
 <b>humanoid perception, behavior intelligence, and embodied decision-making</b>.
 </p>
 
-<p align="center" style="font-size:16px;">
+<p align="center" style="font-size:18.5px;">
 My work sits at the intersection of applied machine learning, robotics systems engineering,  
 and on-device deployment — where systems must survive noisy sensors, limited compute,  
 and real environments, not just simulations.
 </p>
 
-<p align="center" style="font-size:16px;">
+<p align="center" style="font-size:18.5px;">
 Currently, I am an <b>AI Intern in the R&D team at a humanoid robotics startup</b>,  
 working on end-to-end perception pipelines,  
 speech → intent → action systems, behavior logic,  
@@ -76,7 +76,7 @@ ROS2-based architectures, and edge deployment on
   <img src="https://img.shields.io/badge/Hackathon%20Winner-16A34A?style=for-the-badge"/>
 </p>
 
-<p align="center" style="font-size:16px;">
+<p align="center" style="font-size:18.5px;">
 AI Intern — Humanoid Robotics R&D (real robots, deployed systems)<br/>
 Industrial humanoid vision systems for alloy & paint defect detection (TVS Automobiles)<br/>
 IEEE research on real-time multimodal microplastic detection<br/>
@@ -86,8 +86,6 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 ---
 
 <h2 align="center">▸ Tech Stack ◂</h2>
-
-<!-- ================= EMBODIED AI ================= -->
 
 <h3 align="center">Embodied AI & Machine Learning</h3>
 
@@ -101,15 +99,13 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
   <img src="https://img.shields.io/badge/Vision--Language--Action-4F46E5?style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px;">
 YOLOv8 · DINOv3 · SAM 2.1 · Depth Anything · DUSt3R<br/>
 Whisper · VAD · Speech-to-Intent<br/>
 TensorFlow · OpenCV · LLaVA-style architectures
 </p>
 
 ---
-
-<!-- ================= EDGE AI ================= -->
 
 <h3 align="center">Edge AI & Systems Engineering</h3>
 
@@ -123,15 +119,13 @@ TensorFlow · OpenCV · LLaVA-style architectures
   <img src="https://img.shields.io/badge/Latency%20Optimization-0D9488?style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px;">
 Jetson Orin Nano · Jetson Nano<br/>
 Docker · Linux · ROS2 deployment<br/>
 Real-time inference under memory & latency constraints
 </p>
 
 ---
-
-<!-- ================= ROBOTICS & EMBEDDED ================= -->
 
 <h3 align="center">Robotics & Embedded Systems</h3>
 
@@ -145,7 +139,7 @@ Real-time inference under memory & latency constraints
   <img src="https://img.shields.io/badge/Low-level%20Control-2563EB?style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px;">
 STM32 · Arduino · Raspberry Pi<br/>
 IMU · RGB & Depth Cameras · Encoders<br/>
 Hardware–Software co-design
@@ -155,12 +149,12 @@ Hardware–Software co-design
 
 <h2 align="center">▸ Research ◂</h2>
 
-<p align="center" style="font-size:17px;">
+<p align="center" style="font-size:19px;">
 <b>Development of a Real-Time Multimodal Sensor for Field-Based Microplastic Detection</b><br/>
 <i>IEEE Conference — IC3ECSBHI</i>
 </p>
 
-<p align="center" style="font-size:15.5px;">
+<p align="center" style="font-size:18px;">
 Multimodal sensor fusion combining optical sensing, impedance analysis,  
 and machine learning for real-time, field-deployable environmental monitoring.
 </p>
@@ -171,6 +165,6 @@ and machine learning for real-time, field-deployable environmental monitoring.
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="340"/>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px;">
   <i>Building systems that perceive, reason, and act — outside the lab.</i>
 </p>
