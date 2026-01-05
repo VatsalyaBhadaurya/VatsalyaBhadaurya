@@ -109,19 +109,19 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 <h3 align="center">🚀 Edge AI & Systems Engineering</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-22C55E?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson%20Nano-16A34A?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/On--device%20Inference-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Latency%20%26%20Memory%20Optimization-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/On--device%20Inference-14B8A6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Latency%20%26%20Memory%20Optimization-0D9488?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-22D3EE?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROS2-0EA5E9?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -129,20 +129,20 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 <h3 align="center">🔧 Robotics Hardware & Embedded</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-0F766E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-06B6D4?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-DB2777?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IMU-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RGB%20%26%20Depth%20Cameras-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sensor%20Fusion-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IMU-0891B2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RGB%20%26%20Depth%20Cameras-0EA5E9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensor%20Fusion-2563EB?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Low--level%20Interfacing-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hardware--Software%20Co--design-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Low--level%20Interfacing-4C1D95?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardware--Software%20Co--design-6B21A8?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
