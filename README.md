@@ -89,7 +89,7 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 
 <!-- ================= EMBODIED AI ================= -->
 
-<h3 align="center" style="font-size:18px;>Embodied AI & Machine Learning</h3>
+<h3 align="center">Embodied AI & Machine Learning</h3>
 
 <p align="center">
   <img src="https://auto-rt.github.io/static/images/AutoRT_viz.gif" width="360"/>
