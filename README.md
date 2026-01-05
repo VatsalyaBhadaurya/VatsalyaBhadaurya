@@ -85,10 +85,6 @@ Robotics AI designed for real-world deployment
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="520"/>
-</p>
-
 ## ⚙️ Tech Stack
 
 <p align="center"><b>Embodied AI & Machine Learning</b></p>
@@ -130,10 +126,6 @@ Low-level sensor integration & hardware–software interfacing
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="520"/>
-</p>
 
 ## 📄 Research
 
