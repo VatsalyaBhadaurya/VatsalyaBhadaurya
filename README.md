@@ -73,77 +73,133 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 
 ---
 
-<h2 align="center">▸ Tech Stack ◂</h2>
+---
+
+<h2 align="center">▸ Tech Stack & System Architecture ◂</h2>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <!-- LEFT : Embodied AI & ML -->
+    <td width="50%" valign="top">
 
 <h3 align="center">🤖 Embodied AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vision--Language--Action-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal%20Models-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embodied%20AI-222222?style=for-the-badge"/>
+Models and perception systems enabling semantic understanding
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=opencv"/>
-  <img src="https://img.shields.io/badge/DINOv3-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAM%202.1-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Depth%20Anything-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DUSt3R-444444?style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Robotics_perception_pipeline.png" width="360"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/VAD-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Speech--to--Intent-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision--Language--Action-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multimodal%20Models-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embodied%20AI-7C3AED?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT--OSS-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaVA--style%20Architectures-111111?style=for-the-badge"/>
+YOLOv8 · DINOv3 · SAM 2.1 · Depth Anything · DUSt3R  
+<br/>
+Whisper · VAD · Speech-to-Intent  
+<br/>
+TensorFlow · OpenCV · LLaVA-style architectures
 </p>
 
----
+    </td>
+
+    <!-- RIGHT : Architecture -->
+    <td width="50%" valign="top">
+
+<h3 align="center">🏗️ Architecture (System Spine)</h3>
+
+<p align="center">
+Cross-cutting system design connecting perception, reasoning, and action
+</p>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Sense-Plan-Act_loop.png" width="360"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Architecture-4338CA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROS2--Based%20Design-1E40AF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular%20Pipelines-312E81?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Event-driven pipelines · State machines ·  
+<br/>
+Perception → Decision → Action flows
+</p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <!-- LEFT : Robotics & Embedded -->
+    <td width="50%" valign="top">
+
+<h3 align="center">🔧 Robotics & Embedded Systems</h3>
+
+<p align="center">
+Low-level sensing, control, and hardware interfacing
+</p>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Robot_control_architecture.png" width="360"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sensor%20Fusion-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Low--level%20Control-2563EB?style=for-the-badge"/>
+</p>
+
+<p align="center">
+STM32 · Arduino · Raspberry Pi  
+<br/>
+IMU · RGB & Depth Cameras · Encoders  
+<br/>
+Hardware–Software Co-design
+</p>
+
+    </td>
+
+    <!-- RIGHT : Edge AI & Systems -->
+    <td width="50%" valign="top">
 
 <h3 align="center">🚀 Edge AI & Systems Engineering</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-22C55E?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetson%20Nano-16A34A?style=for-the-badge&logo=nvidia&logoColor=white"/>
+Deployment, optimization, and real-time execution on robots
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/On--device%20Inference-14B8A6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Latency%20%26%20Memory%20Optimization-0D9488?style=for-the-badge&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Edge_computing_architecture.png" width="360"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-22D3EE?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROS2-0EA5E9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-22C55E?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/On--device%20Inference-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Latency%20Optimization-0D9488?style=for-the-badge"/>
 </p>
+
+<p align="center">
+Jetson Orin Nano · Jetson Nano  
+<br/>
+Docker · Linux · ROS2  
+<br/>
+Real-time inference under memory & latency constraints
+</p>
+
+    </td>
+  </tr>
+</table>
 
 ---
-
-<h3 align="center">🔧 Robotics Hardware & Embedded</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STM32-0F766E?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-06B6D4?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-DB2777?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IMU-0891B2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RGB%20%26%20Depth%20Cameras-0EA5E9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sensor%20Fusion-2563EB?style=for-the-badge&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Low--level%20Interfacing-4C1D95?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardware--Software%20Co--design-6B21A8?style=for-the-badge&logoColor=white"/>
-</p>
 
 ---
 
