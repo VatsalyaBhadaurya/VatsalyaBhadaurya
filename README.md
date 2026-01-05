@@ -98,7 +98,7 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 
 <p align="center">
   <!-- Sense-Plan-Act diagram (classic robotics) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Sense_Plan_Act_structure.svg" width="320" alt="Sense Plan Act Architecture"/>
+  <img src="https://auto-rt.github.io/static/images/AutoRT_viz.gif" width="320" alt="Sense Plan Act Architecture"/>
 </p>
 
 <p align="center">
