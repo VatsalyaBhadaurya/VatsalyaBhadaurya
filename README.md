@@ -50,15 +50,15 @@ behavior logic, ROS2 architectures, and edge deployment on
 ## 🔬 Current Focus
 
 <p align="center">
-• Humanoid perception & behavior systems  
+Humanoid perception & behavior systems  
 <br/>
-• Embodied AI and decision-making under uncertainty  
+Embodied AI and decision-making under uncertainty  
 <br/>
-• Vision–Language–Action & multimodal models  
+Vision–Language–Action & multimodal models  
 <br/>
-• Edge ML optimization on Jetson platforms  
+Edge ML optimization on Jetson platforms  
 <br/>
-• Robotics AI designed for real-world deployment
+Robotics AI designed for real-world deployment
 </p>
 
 ---
