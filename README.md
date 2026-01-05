@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I’m Vatsalya 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="260"/>
-</p>
-
 <h3 align="center">
   Applied Robotics · Embodied AI · Humanoid Perception · Edge ML
 </h3>
@@ -28,7 +24,7 @@
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="520"/>
 </p>
 
-## 🧠 About Me
+## About Me
 
 <p align="center" style="font-size: 17px;">
 I build <b>real-world AI systems for robotics</b>, focused on  
@@ -55,7 +51,7 @@ behavior logic, ROS2 architectures, and edge deployment on
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520"/>
 </p>
 
-## 🔬 Current Focus
+## My Current Focus
 
 <p align="center" style="font-size: 16px; line-height: 1.8;">
 Humanoid perception & behavior systems<br/>
@@ -71,7 +67,7 @@ Robotics AI designed for real-world deployment
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="520"/>
 </p>
 
-## 🏗️ Experience Highlights
+## Experience Highlights
 
 <p align="center" style="font-size: 16px; line-height: 1.8;">
 AI Intern — Humanoid Robotics R&D (real robots, deployed systems)<br/>
@@ -84,7 +80,7 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <h3 align="center">Embodied AI & Machine Learning</h3>
 
@@ -118,7 +114,7 @@ Low-level sensor integration & hardware–software interfacing
 
 ---
 
-## 📄 Research
+## Research
 
 <p align="center" style="font-size: 17px;">
 <b>Development of a Real-Time Multimodal Sensor for Field-Based Microplastic Detection</b><br/>
