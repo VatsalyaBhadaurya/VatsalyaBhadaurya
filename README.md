@@ -88,13 +88,17 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 
 ---
 
-<h2 align="center">▸ Tech Stack & System Architecture ◂</h2>
+<h2 align="center">▸ Tech Stack ◂</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🤖 Embodied AI & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Robotics_perception_pipeline.png/640px-Robotics_perception_pipeline.png" width="320"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vision--Language--Action-4F46E5?style=for-the-badge"/>
@@ -113,6 +117,10 @@ TensorFlow · OpenCV · LLaVA-style architectures
 <td width="50%" valign="top">
 
 <h3 align="center">🏗️ Architecture (System Spine)</h3>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sense-Plan-Act_loop.png/640px-Sense-Plan-Act_loop.png" width="320"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Architecture-4338CA?style=for-the-badge"/>
@@ -135,6 +143,10 @@ Perception → Decision → Action
 <h3 align="center">🔧 Robotics & Embedded Systems</h3>
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Robot_control_architecture.png/640px-Robot_control_architecture.png" width="320"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Embedded%20Systems-0F766E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Sensor%20Fusion-0891B2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Low--level%20Control-2563EB?style=for-the-badge"/>
@@ -153,6 +165,10 @@ Hardware–Software Co-design
 <h3 align="center">🚀 Edge AI & Systems Engineering</h3>
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Edge_computing_architecture.png/640px-Edge_computing_architecture.png" width="320"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-22C55E?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/On--device%20Inference-14B8A6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Latency%20Optimization-0D9488?style=for-the-badge"/>
@@ -168,7 +184,6 @@ Real-time inference under memory & latency constraints
 </tr>
 </table>
 
----
 
 <h2 align="center">▸ Research ◂</h2>
 
