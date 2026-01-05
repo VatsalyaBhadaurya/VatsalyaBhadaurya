@@ -38,7 +38,7 @@ and real environments, not just simulations.
 </p>
 
 <p align="center" style="font-size:18.5px;">
-Currently, I am an <b>AI Intern in the R&D team at a humanoid robotics startup (iHUB Research & Robotics)</b>,  
+Currently, I am an <b>AI Intern in the R&D team at a humanoid robotics startup (I HUB Research & Robotics)</b>,  
 working on end-to-end perception pipelines,  
 speech -> intent -> action systems, behavior logic,  
 ROS2-based architectures, and edge deployment on  
