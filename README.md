@@ -85,11 +85,11 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 
 ---
 
-<h2 align="center">▸ Tech Stack (System Flow) ◂</h2>
+<h2 align="center">▸ Tech Stack ◂</h2>
 
 <!-- ================= EMBODIED AI ================= -->
 
-<h3 align="center">🤖 Embodied AI & Machine Learning</h3>
+<h3 align="center" style="font-size:18px;>Embodied AI & Machine Learning</h3>
 
 <p align="center">
   <img src="https://auto-rt.github.io/static/images/AutoRT_viz.gif" width="360"/>
@@ -111,7 +111,7 @@ TensorFlow · OpenCV · LLaVA-style architectures
 
 <!-- ================= EDGE AI ================= -->
 
-<h3 align="center">🚀 Edge AI & Systems Engineering</h3>
+<h3 align="center">Edge AI & Systems Engineering</h3>
 
 <p align="center">
   <img src="https://www.automation.com/documents/d/acom/hailo-s-structure-defined-data-flow-architecture-concept_1.gif" width="360"/>
@@ -133,7 +133,7 @@ Real-time inference under memory & latency constraints
 
 <!-- ================= ROBOTICS & EMBEDDED ================= -->
 
-<h3 align="center">🔧 Robotics & Embedded Systems</h3>
+<h3 align="center">Robotics & Embedded Systems</h3>
 
 <p align="center">
   <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/ros-dp-nitros.gif" width="360"/>
