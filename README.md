@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="520"/>
 </p>
 
-## About Me
+<h2 align="center">▸ About Me ◂</h2>
 
 <p align="center" style="font-size: 17px;">
 I build <b>real-world AI systems for robotics</b>, focused on  
@@ -40,20 +40,17 @@ and real environments, not just simulations.
 
 <p align="center" style="font-size: 16px;">
 Currently, I am an <b>AI Intern in the R&D team at a humanoid robotics startup</b>,  
-working on perception pipelines, speech → intent → action systems,  
-behavior logic, ROS2 architectures, and edge deployment on  
+working on end-to-end perception pipelines,  
+speech → intent → action systems, behavior logic,  
+ROS2 architectures, and edge deployment on  
 <b>NVIDIA Jetson platforms</b>.
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520"/>
-</p>
+<h2 align="center">▸ Current Focus ◂</h2>
 
-## My Current Focus
-
-<p align="center" style="font-size: 16px; line-height: 1.8;">
+<p align="center" style="font-size: 16px; line-height: 1.9;">
 Humanoid perception & behavior systems<br/>
 Embodied AI and decision-making under uncertainty<br/>
 Vision–Language–Action & multimodal models<br/>
@@ -63,13 +60,9 @@ Robotics AI designed for real-world deployment
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="520"/>
-</p>
+<h2 align="center">▸ Experience Highlights ◂</h2>
 
-## Experience Highlights
-
-<p align="center" style="font-size: 16px; line-height: 1.8;">
+<p align="center" style="font-size: 16px; line-height: 1.9;">
 AI Intern — Humanoid Robotics R&D (real robots, deployed systems)<br/>
 Industrial humanoid vision system for alloy & paint defect detection (TVS Automobiles)<br/>
 IEEE research on real-time multimodal microplastic detection<br/>
@@ -80,7 +73,7 @@ Multiple national-level hackathon wins (AI · IoT · Robotics)
 
 ---
 
-## Tech Stack
+<h2 align="center">▸ Tech Stack ◂</h2>
 
 <h3 align="center">Embodied AI & Machine Learning</h3>
 
@@ -114,7 +107,7 @@ Low-level sensor integration & hardware–software interfacing
 
 ---
 
-## Research
+<h2 align="center">▸ Research ◂</h2>
 
 <p align="center" style="font-size: 17px;">
 <b>Development of a Real-Time Multimodal Sensor for Field-Based Microplastic Detection</b><br/>
