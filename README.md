@@ -97,7 +97,8 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 <h3 align="center">🤖 Embodied AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Robotics_perception_pipeline.png/640px-Robotics_perception_pipeline.png" width="320"/>
+  <!-- Sense-Plan-Act diagram (classic robotics) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Sense_Plan_Act_structure.svg" width="320" alt="Sense Plan Act Architecture"/>
 </p>
 
 <p align="center">
@@ -108,7 +109,7 @@ Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
 
 <p align="center">
 YOLOv8 · DINOv3 · SAM 2.1 · Depth Anything · DUSt3R<br/>
-Whisper · VAD · Speech-to-Intent<br/>
+Whisper · VAD · Speech-to-Intent processing<br/>
 TensorFlow · OpenCV · LLaVA-style architectures
 </p>
 
@@ -116,22 +117,23 @@ TensorFlow · OpenCV · LLaVA-style architectures
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏗️ Architecture (System Spine)</h3>
+<h3 align="center">🏗️ ROS 2 System Architecture</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sense-Plan-Act_loop.png/640px-Sense-Plan-Act_loop.png" width="320"/>
+  <!-- ROS 2 architecture diagram -->
+  <img src="https://raw.githubusercontent.com/osrf/ros2/master/doc/ros2_arch.png" width="320" alt="ROS 2 Architecture Diagram"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System%20Architecture-4338CA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ROS2--Based%20Design-1E40AF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Modular%20Pipelines-312E81?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROS2%20Distributed-Nodes-1E40AF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DDS%20Middleware-Communication-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular%20Microservices-Graph-Nodes-312E81?style=for-the-badge"/>
 </p>
 
 <p align="center">
-Sense → Plan → Act loops<br/>
-Event-driven pipelines · State machines<br/>
-Perception → Decision → Action
+Sensors · Perception · Planning · Control<br/>
+publisher/subscriber topic graphs + services & actions<br/>
+DDS-based distributed node communication
 </p>
 
 </td>
@@ -143,19 +145,20 @@ Perception → Decision → Action
 <h3 align="center">🔧 Robotics & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Robot_control_architecture.png/640px-Robot_control_architecture.png" width="320"/>
+  <!-- Hierarchical control diagram example -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Control_loop_diagram.svg" width="320" alt="Robot Control Loop Diagram"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded%20Systems-0F766E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Sensor%20Fusion-0891B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Low--level%20Control-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Realtime%20Control-2563EB?style=for-the-badge"/>
 </p>
 
 <p align="center">
 STM32 · Arduino · Raspberry Pi<br/>
 IMU · RGB & Depth Cameras · Encoders<br/>
-Hardware–Software Co-design
+Hardware-Software co-design
 </p>
 
 </td>
@@ -165,25 +168,25 @@ Hardware–Software Co-design
 <h3 align="center">🚀 Edge AI & Systems Engineering</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Edge_computing_architecture.png/640px-Edge_computing_architecture.png" width="320"/>
+  <!-- Edge computing architecture representative -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cloud_computing_and_edge_computing_diagram.svg" width="320" alt="Edge & Cloud Architecture"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-22C55E?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/On--device%20Inference-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/On-device%20Inference-14B8A6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Latency%20Optimization-0D9488?style=for-the-badge"/>
 </p>
 
 <p align="center">
 Jetson Orin Nano · Jetson Nano<br/>
-Docker · Linux · ROS2<br/>
-Real-time inference under memory & latency constraints
+Docker · Linux · ROS2 stack deployment<br/>
+On-device inference under resource constraints
 </p>
 
 </td>
 </tr>
 </table>
-
 
 <h2 align="center">▸ Research ◂</h2>
 
