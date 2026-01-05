@@ -27,20 +27,20 @@ Applied Robotics · Embodied AI · Humanoid Perception · Edge ML
 <h2 align="center">▸ About Me ◂</h2>
 
 <p align="center" style="font-size:19.5px;">
-I build <b>real-world AI systems for robotics</b>, focused on  
-<b>humanoid perception, behavior intelligence, and embodied decision-making</b>.
+I build <b>real world AI systems for robotics</b>, focused on  
+<b>humanoid perception, behavior intelligence, and embodied decision making</b>.
 </p>
 
 <p align="center" style="font-size:18.5px;">
 My work sits at the intersection of applied machine learning, robotics systems engineering,  
-and on-device deployment — where systems must survive noisy sensors, limited compute,  
+and ondevice deployment where systems must survive noisy sensors, limited compute,  
 and real environments, not just simulations.
 </p>
 
 <p align="center" style="font-size:18.5px;">
-Currently, I am an <b>AI Intern in the R&D team at a humanoid robotics startup</b>,  
+Currently, I am an <b>AI Intern in the R&D team at a humanoid robotics startup (iHUB Research & Robotics)</b>,  
 working on end-to-end perception pipelines,  
-speech → intent → action systems, behavior logic,  
+speech -> intent -> action systems, behavior logic,  
 ROS2-based architectures, and edge deployment on  
 <b>NVIDIA Jetson platforms</b>.
 </p>
@@ -77,10 +77,10 @@ ROS2-based architectures, and edge deployment on
 </p>
 
 <p align="center" style="font-size:18.5px;">
-AI Intern — Humanoid Robotics R&D (real robots, deployed systems)<br/>
-Industrial humanoid vision systems for alloy & paint defect detection (TVS Automobiles)<br/>
+AI Intern - Humanoid Robotics R&D (real robots, deployed systems)<br/> 
+TVS Automobiles - Industrial humanoid vision systems for alloy & paint defect detection<br/>
 IEEE research on real-time multimodal microplastic detection<br/>
-Founder — <b>MaaKosh</b>, maternal & neonatal health initiative
+Founder of <b>MaaKosh</b>, maternal & neonatal health initiative
 </p>
 
 ---
