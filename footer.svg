@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Perceive. Reason. Act. Simulators forgive. The real world does not.">
+  <defs>
+    <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.07"/>
+    </pattern>
+
+    <!-- left and right: machine square-wave. centre: a heartbeat. -->
+    <path id="trace" fill="none"
+          d="M0 104 H70 V80 H120 V104 H190 V80 H240 V104 H310 V80 H360 V104 H430
+             L470 104 L486 104 L498 62 L512 136 L526 88 L540 104 L560 104
+             H640 V80 H690 V104 H760 V80 H810 V104 H880 V80 H930 V104 H1000"/>
+
+    <style>
+      .ft { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+            font-size: 26px; font-weight: 700; letter-spacing: 9px; fill: #E6EDF3; }
+      .fs { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+            font-size: 10.5px; letter-spacing: 3px; fill: #E6EDF3; fill-opacity: 0.34; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="150" fill="#0B0F16"/>
+  <rect width="1000" height="150" fill="url(#fgrid)"/>
+
+  <!-- static ghost of the signal -->
+  <use href="#trace" stroke="#5EEAD4" stroke-opacity="0.18" stroke-width="2"/>
+
+  <!-- animated draw-on trace -->
+  <use href="#trace" stroke="#5EEAD4" stroke-width="2.4"
+       stroke-linecap="round" stroke-linejoin="round"
+       stroke-dasharray="520 1800" stroke-dashoffset="520">
+    <animate attributeName="stroke-dashoffset" values="520;-1800" dur="4.5s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- the beat -->
+  <circle r="4" fill="#5EEAD4">
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.5s" repeatCount="indefinite"/>
+    <animateMotion dur="4.5s" repeatCount="indefinite" rotate="0">
+      <mpath href="#trace"/>
+    </animateMotion>
+  </circle>
+
+  <text x="500" y="46" text-anchor="middle" class="ft">PERCEIVE. REASON. ACT.</text>
+  <text x="500" y="70" text-anchor="middle" class="fs">SIMULATORS FORGIVE. THE REAL WORLD DOES NOT.</text>
+</svg>

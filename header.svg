@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Vatsalya Bhadaurya, humanoid robotics, embodied AI, edge inference">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.07"/>
+    </pattern>
+
+    <style>
+      .ttl { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 41px; font-weight: 700; letter-spacing: 6px; fill: #E6EDF3; }
+      .sub { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 14.5px; letter-spacing: 4.2px; fill: #E6EDF3; fill-opacity: 0.62; }
+      .tag { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 11px; letter-spacing: 2.6px; fill: #E6EDF3; fill-opacity: 0.34; }
+      .lbl { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+             font-size: 10px; letter-spacing: 1px; fill: #5EEAD4; }
+      .bx  { fill: none; stroke: #5EEAD4; stroke-width: 1.4; }
+      .fade-a { animation: blip 6s ease-in-out infinite; }
+      .fade-b { animation: blip 6s ease-in-out infinite 2s; }
+      .fade-c { animation: blip 6s ease-in-out infinite 4s; }
+      @keyframes blip {
+        0%, 8%    { opacity: 0; }
+        16%, 42%  { opacity: 1; }
+        52%, 100% { opacity: 0; }
+      }
+      .rise  { animation: rise 1.4s cubic-bezier(.2,.8,.2,1) both; }
+      .rise2 { animation: rise 1.4s cubic-bezier(.2,.8,.2,1) .35s both; }
+      .rise3 { animation: rise 1.4s cubic-bezier(.2,.8,.2,1) .7s both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="260" fill="#0B0F16"/>
+  <rect width="1000" height="260" fill="url(#grid)"/>
+
+  <!-- detection overlays: what a perception stack sees -->
+  <g class="fade-a">
+    <path class="bx" d="M46 54 h26 M46 54 v26 M176 54 h-26 M176 54 v26 M46 186 h26 M46 186 v-26 M176 186 h-26 M176 186 v-26"/>
+    <rect x="46" y="54" width="130" height="132" class="bx" stroke-opacity="0.25"/>
+    <text x="46" y="46" class="lbl">person 0.98</text>
+  </g>
+  <g class="fade-b">
+    <path class="bx" d="M836 92 h22 M836 92 v22 M956 92 h-22 M956 92 v22 M836 198 h22 M836 198 v-22 M956 198 h-22 M956 198 v-22"/>
+    <rect x="836" y="92" width="120" height="106" class="bx" stroke-opacity="0.25"/>
+    <text x="836" y="84" class="lbl">grasp 0.91</text>
+  </g>
+  <g class="fade-c">
+    <path class="bx" d="M214 36 h16 M214 36 v16 M300 36 h-16 M300 36 v16 M214 86 h16 M214 86 v-16 M300 86 h-16 M300 86 v-16"/>
+    <rect x="214" y="36" width="86" height="50" class="bx" stroke-opacity="0.25"/>
+    <text x="214" y="28" class="lbl">depth 0.88</text>
+  </g>
+
+  <!-- sweeping sensor scan -->
+  <g>
+    <rect x="0" y="0" width="120" height="260" fill="#5EEAD4" fill-opacity="0.045"/>
+    <rect x="118" y="0" width="2" height="260" fill="#5EEAD4" fill-opacity="0.45"/>
+    <animateTransform attributeName="transform" type="translate"
+                      values="-140 0; 1000 0" dur="5.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g class="rise">
+    <text x="500" y="128" text-anchor="middle" class="ttl">VATSALYA BHADAURYA</text>
+  </g>
+
+  <g class="rise2">
+    <rect x="330" y="146" width="340" height="1.6" fill="#5EEAD4" fill-opacity="0.6"/>
+    <text x="500" y="178" text-anchor="middle" class="sub">HUMANOID ROBOTICS &#183; EMBODIED AI &#183; EDGE INFERENCE</text>
+  </g>
+
+  <g class="rise3">
+    <text x="500" y="212" text-anchor="middle" class="tag">ROS2 &#183; JETSON &#183; VLA &#183; MULTIMODAL PERCEPTION</text>
+    <circle cx="372" cy="236" r="3.2" fill="#5EEAD4">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="386" y="240" class="tag">DEPLOYED ON REAL ROBOTS, NOT SIMULATIONS</text>
+  </g>
+</svg>
