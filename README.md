@@ -1,6 +1,6 @@
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 <p align="center">
-  <img alt="Vatsalya Bhadaurya, robots that perceive, reason and act beyond the lab" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=235&section=header&text=Vatsalya%20Bhadaurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Robots%20that%20perceive%2C%20reason%20and%20act%20beyond%20the%20lab&descSize=17&descAlignY=58" width="100%"/>
+  <img alt="Vatsalya Bhadaurya, humanoid robotics, embodied AI, edge inference" src="header.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,6 +23,13 @@
   <a href="https://ieeexplore.ieee.org/document/11469066/"><img src="https://img.shields.io/badge/Published-IEEE%20Xplore-00629B?style=flat-square&logo=ieee&logoColor=white"/></a>
   <a href="https://github.com/VinRobotics/vla.cpp"><img src="https://img.shields.io/badge/OSS-vla.cpp-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
+
+<br/>
+
+<h3 align="center">
+Most AI stops at the screen.<br/>
+Mine has to see the room, decide, and move something real.
+</h3>
 
 <br/>
 
@@ -53,6 +60,11 @@ tight memory and unforgiving latency. Simulators forgive. The real world does no
 
 <!-- ═════════════════════ RIGHT NOW ═════════════════════ -->
 <h2 align="center">⟡ &nbsp;R I G H T &nbsp; N O W &nbsp; ⟡</h2>
+
+<p align="center"><i>
+One learning to see a factory floor.<br/>
+One listening for a heartbeat that has not yet drawn its first breath.
+</i></p>
 
 <table align="center">
 <tr>
@@ -98,8 +110,6 @@ Also **[VitaSense](https://vitasense.nextgenrl.com/)**, portable screening for e
   <sub>Class of 2028</sub>
 </p>
 
-Software Developer Intern at the Dean of Student Affairs. Previously Android Developer Lead.
-
 </td>
 </tr>
 </table>
@@ -130,72 +140,6 @@ Software Developer Intern at the Dean of Student Affairs. Previously Android Dev
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/VinRobotics/vla.cpp/pull/17"><b>PR #17</b></a>
 </p>
-
-<br/>
-
-<!-- ═════════════════════ SELECTED BUILDS ═════════════════════ -->
-<h2 align="center">⟡ &nbsp;S E L E C T E D &nbsp; B U I L D S &nbsp; ⟡</h2>
-
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-<h4 align="center">Industrial Humanoid Vision</h4>
-
-Alloy defect and paint anomaly detection on a live automotive line. Perception robust to harsh lighting, factory noise, motion blur and clutter, operating well past clean datasets.
-
-<p align="center"><code>Computer Vision</code> <code>Edge</code></p>
-
-</td>
-<td width="33%" valign="top">
-
-<h4 align="center">SecondMind</h4>
-
-An ESP32-S3 AI pendant that turns unintentional speech into tasks, summaries and insights. STT plus LLM processing plus a vector DB for semantic recall. *2nd Place, hackathon.*
-
-<p align="center"><code>ESP32-S3</code> <code>STT</code> <code>Vector DB</code></p>
-
-</td>
-<td width="33%" valign="top">
-
-<h4 align="center">BoloNyay</h4>
-
-Multilingual legal AI on Azure and Bhashini: speech recognition, translation and legal NLP for public legal support. *Govt. Top 100 Finalist, India.*
-
-<p align="center"><code>Azure</code> <code>Bhashini</code> <code>Legal NLP</code></p>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<h4 align="center">FoundryBuild</h4>
-
-Your AI CTO. Describe what you want to build and get a full engineering blueprint (architecture, roadmap, cost, risk) from 12 specialized agents working in parallel.
-
-<p align="center"><code>LLM</code> <code>AI Planning</code></p>
-
-</td>
-<td valign="top">
-
-<h4 align="center">SkitterzAI</h4>
-
-Plant disease detection and fertilizer recommendation for smart agriculture, taking computer vision into the field for accessible crop diagnostics.
-
-<p align="center"><code>Computer Vision</code> <code>AgriTech</code></p>
-
-</td>
-<td valign="top">
-
-<h4 align="center">VaPr Weather Station</h4>
-
-A smart-farming weather station that turns localized sensor data into decisions a farmer can actually act on.
-
-<p align="center"><code>IoT</code> <code>Sensors</code></p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -273,20 +217,20 @@ driven by a YOLOv8-based ML fusion model, with an IoT companion app for geotagge
 
 <div align="center">
 
-|                              Result | Program                                          |
-| ----------------------------------: | :----------------------------------------------- |
-|          **Top 25 Startups, India** | NASSCOM AI CoE *(with Govt. of Gujarat)*         |
-|                        **Selected** | UP Deeptech Mission + BlueHill VC Pitching Round |
-|                    **India Top 16** | BioMed Bharat 2026 Biomedical Device Hackathon   |
-|                       **Qualified** | Google's AI for Future Fund                      |
-|                   **India Top 100** | Bhasha Bandhu *(Microsoft &times; Bhashini)*     |
-|                 **Paper Published** | IEEE &middot; ICECSBHI 2026                      |
-|               **Community Speaker** | Arduino.cc *(AI &amp; IoT innovation)*           |
-| **2nd Place, twice** *(2025, 2026)* | Ignition Hackathon                               |
-|                       **1st Place** | Ignition IoT Challenge                           |
-|                       **2nd Place** | GBU Entrepreneur Hackathon                       |
-|  **Science &amp; Innovation Award** | Amity University                                 |
-|                          **Winner** | CBSE Regional Science Exhibition 2023            |
+|               Result                |                     Program                      |
+| :---------------------------------: | :----------------------------------------------: |
+|     **Top 25 Startups, India**      |     NASSCOM AI CoE *(with Govt. of Gujarat)*     |
+|            **Selected**             | UP Deeptech Mission + BlueHill VC Pitching Round |
+|          **India Top 16**           |  BioMed Bharat 2026 Biomedical Device Hackathon  |
+|            **Qualified**            |           Google's AI for Future Fund            |
+|          **India Top 100**          |   Bhasha Bandhu *(Microsoft &times; Bhashini)*   |
+|         **Paper Published**         |           IEEE &middot; ICECSBHI 2026            |
+|        **Community Speaker**        |      Arduino.cc *(AI &amp; IoT innovation)*      |
+| **2nd Place, twice** *(2025, 2026)* |                Ignition Hackathon                |
+|            **1st Place**            |              Ignition IoT Challenge              |
+|            **2nd Place**            |            GBU Entrepreneur Hackathon            |
+| **Science &amp; Innovation Award**  |                 Amity University                 |
+|             **Winner**              |      CBSE Regional Science Exhibition 2023       |
 
 </div>
 
@@ -319,5 +263,5 @@ Especially the ones involving a robot, a hospital, or a deadline that scares peo
 </p>
 
 <p align="center">
-  <img alt="Perceive. Reason. Act." src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Perceive.%20Reason.%20Act.&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%"/>
+  <img alt="Perceive. Reason. Act. Simulators forgive. The real world does not." src="footer.svg" width="100%"/>
 </p>
