@@ -50,8 +50,8 @@ noisy sensors, tight memory and unforgiving latency. Simulators forgive. The rea
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineer · R&D
-**I Hub Research & Robotics** · Jul 2025 → present
+### AI Engineer · R&D
+**[I Hub Research & Robotics](https://www.ihubrobotics.com/)** · Jul 2025 → present
 
 An Indian deep-tech lab building humanoid and semi-humanoid service robots end to end — chassis, embedded systems, and a **vision-language-action stack built from scratch**: object detection, task planning, motion control and autonomous navigation, running on NVIDIA Jetson compute. First Indian company selected for NVIDIA's Humanoid Robotics Program. Deployed across India and the Gulf.
 
@@ -65,19 +65,19 @@ An Indian deep-tech lab building humanoid and semi-humanoid service robots end t
 </td>
 <td width="50%" valign="top">
 
-### 🧬 Founder
-**Nextgen Research Lab & Infrastructure Development Pvt. Ltd.**
+### Founder
+**[Nextgen Research Lab & Infrastructure Development Pvt. Ltd.](https://nextgenrl.com/)**
 
-Building **MaaKosh** — an AI-enabled *early-risk intelligence* platform for maternal and neonatal care. Not a device: a continuous system from body to dashboard.
+Building **[MaaKosh](https://nextgenrl.com/)** — an AI-enabled *early-risk intelligence* platform for maternal and neonatal care. Not a device: a continuous system from body to dashboard.
 
 - Smart Belly Band · Neonatal Patch · clinical dashboard
 - On-device ML, risk models, clinical decision support
 - **Supervised testing at RML Hospital, Delhi**
 - Patent preparation initiated; moving prototype → pilot
 
-Also **VitaSense** — portable screening for early childhood developmental & nutritional risk, built for Anganwadi and ASHA workers with explainable insights.
+Also **[VitaSense](https://vitasense.nextgenrl.com/)** — portable screening for early childhood developmental & nutritional risk, built for Anganwadi and ASHA workers with explainable insights.
 
-### 🎓 Student
+### Student
 **B.Tech CSE · Gautam Buddha University** (2028)
 Software Developer Intern, Dean of Student Affairs. Previously Android Developer Lead.
 
@@ -94,7 +94,7 @@ Software Developer Intern, Dean of Student Affairs. Previously Android Developer
   <a href="https://github.com/VinRobotics/vla.cpp">
     <img src="https://img.shields.io/badge/VinRobotics-vla.cpp-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Contributions-2-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-PR%20%2312%20%26%20%2317-16A34A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
@@ -106,7 +106,8 @@ the unglamorous layer where a policy stops being a research artifact and starts 
 </p>
 
 <p align="center">
-<b>2 contributions</b>, including the <b>Windows (WSL2 + CUDA 12.6) build guide</b> — merged <b>PR #12</b>.
+<b>2 contributions</b> — <a href="https://github.com/VinRobotics/vla.cpp/pull/12"><b>PR #12</b></a> (Windows WSL2 + CUDA 12.6 build guide)
+and <a href="https://github.com/VinRobotics/vla.cpp/pull/17"><b>PR #17</b></a>.
 </p>
 
 <br/>
@@ -118,21 +119,21 @@ the unglamorous layer where a policy stops being a research artifact and starts 
 <tr>
 <td width="33%" valign="top">
 
-**🏭 Industrial Humanoid Vision**
+**Industrial Humanoid Vision**
 Alloy defect & paint anomaly detection on a live automotive line. Robust to harsh lighting, factory noise, motion blur and clutter — well beyond clean datasets.
 `Computer Vision` `Edge`
 
 </td>
 <td width="33%" valign="top">
 
-**🧠 SecondMind**
+**SecondMind**
 ESP32-S3 AI pendant turning unintentional speech into tasks, summaries and insights. STT + LLM + a vector DB for semantic recall. *2nd Place, hackathon.*
 `ESP32-S3` `STT` `Vector DB`
 
 </td>
 <td width="33%" valign="top">
 
-**🗣️ BoloNyay**
+**BoloNyay**
 Multilingual legal AI on Azure + Bhashini — speech recognition, translation and legal NLP for public legal support. *Govt. Top 100 Finalist, India.*
 `Azure` `Bhashini` `Legal NLP`
 
@@ -141,21 +142,21 @@ Multilingual legal AI on Azure + Bhashini — speech recognition, translation an
 <tr>
 <td valign="top">
 
-**🏗️ FoundryBuild**
+**FoundryBuild**
 Your AI CTO. Describe what you want to build, get an engineering blueprint — architecture, roadmap, cost and risk — from 12 agents working in parallel.
 `LLM` `AI Planning`
 
 </td>
 <td valign="top">
 
-**🌱 SkitterzAI**
+**SkitterzAI**
 Plant disease detection and fertilizer recommendation — computer vision taken to the field for accessible crop diagnostics.
 `Computer Vision` `AgriTech`
 
 </td>
 <td valign="top">
 
-**🌦️ VaPr Weather Station**
+**VaPr Weather Station**
 A smart-farming weather station turning local sensor data into decisions a farmer can actually act on.
 `IoT` `Sensors`
 
@@ -216,7 +217,7 @@ A smart-farming weather station turning local sensor data into decisions a farme
 <tr>
 <td>
 
-#### 📑 Real-Time Multi-Modal Sensor for Field-Based Microplastic Detection
+#### Real-Time Multi-Modal Sensor for Field-Based Microplastic Detection
 **IEEE · ICECSBHI 2026** — [Read on IEEE Xplore →](https://ieeexplore.ieee.org/document/11469066/)
 
 Optical sensing, impedance analysis and AI-enhanced microscopy fused into one field-deployable instrument, driven by a YOLOv8-based ML fusion model, with an IoT companion app for geotagged contamination mapping.
@@ -234,27 +235,24 @@ Lab-grade detection, minus the lab. Environmental monitoring that works where th
 <!-- ═════════════ RECOGNITION ═════════════ -->
 <h2 align="center">⟡ Recognition ⟡</h2>
 
-<table align="center">
-<tr><td width="50%" valign="top">
+<div align="center">
 
-🏅 &nbsp;**NASSCOM AI CoE** — Top 25 Selected Startups in India *(with Govt. of Gujarat)*
-🚀 &nbsp;**Selected** — UP Deeptech Mission + BlueHill VC Pitching Round
-🧪 &nbsp;**India Top 16** — BioMed Bharat 2026 Biomedical Device Hackathon
-🌐 &nbsp;**Qualified** — Google's AI for Future Fund
-🏆 &nbsp;**India Top 100** — Bhasha Bandhu *(Microsoft × Bhashini)*
-📚 &nbsp;**IEEE Research Paper** — ICECSBHI 2026
+| Result | Program |
+| :--- | :--- |
+| **Top 25 Startups in India** | NASSCOM AI CoE *(with Govt. of Gujarat)* |
+| **Selected** | UP Deeptech Mission + BlueHill VC Pitching Round |
+| **India Top 16** | BioMed Bharat 2026 Biomedical Device Hackathon |
+| **Qualified** | Google's AI for Future Fund |
+| **India Top 100** | Bhasha Bandhu *(Microsoft × Bhashini)* |
+| **Paper Published** | IEEE · ICECSBHI 2026 |
+| **Community Speaker** | Arduino.cc — AI & IoT innovation |
+| **2nd Place ×2** *(2025, 2026)* | Ignition Hackathon |
+| **1st Place** | Ignition IoT Challenge |
+| **2nd Place** | GBU Entrepreneur Hackathon |
+| **Science & Innovation Award** | Amity University |
+| **Winner** | CBSE Regional Science Exhibition 2023 |
 
-</td><td width="50%" valign="top">
-
-🎤 &nbsp;**Arduino.cc Community Speaker** — AI & IoT innovation
-🥈 &nbsp;**Ignition Hackathon** — 2× 2nd Place *(2025, 2026)*
-🥇 &nbsp;**Ignition IoT Challenge** — 1st Place
-🥈 &nbsp;**GBU Entrepreneur Hackathon** — 2nd Place
-🧠 &nbsp;**Science & Innovation Award** — Amity University
-🔬 &nbsp;**Winner** — CBSE Regional Science Exhibition 2023
-
-</td></tr>
-</table>
+</div>
 
 <br/>
 
@@ -278,7 +276,7 @@ Especially if they involve a robot, a hospital, or a deadline that scares people
 <sub>— श्रीमद्भगवद्गीता 2.47</sub>
 </i></p>
 
-<!-- ═════════════ OPTIONAL STATS ═════════════ -->
+<!-- ═════════════ STATS ═════════════ -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VatsalyaBhadaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalyaBhadaurya&theme=tokyonight&hide_border=true&background=0D1117" height="160"/>
